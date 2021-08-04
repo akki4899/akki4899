@@ -1,0 +1,7 @@
+#include<iostream>
+Using namespace std;
+int main()
+{
+Cout<<"Hello World!!"<<endl;
+Return 0;
+}
